@@ -11,7 +11,7 @@
   "author": "Phạm Ngọc Duy",
   "license": "ISC",
   "dependencies": {
-    "async": "^2.6.1",
+    "async": "^2.6.4",
     "body-parser": "^1.17.1",
     "bootbot": "^1.0.12",
     "chrono-node": "^1.3.1",
